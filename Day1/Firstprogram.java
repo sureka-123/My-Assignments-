@@ -1,4 +1,4 @@
-package Week1.Day1;
+ package Week1.Day1;
 
 public class Firstprogram {
 
